@@ -1,6 +1,6 @@
 # SISTEMA FOLHA DE PAGAMENTO
 
-* Com implementação exigidas pelo professor da disciplina.
+* Com implementações exigidas pelo professor da disciplina.
 
 O objetivo do projeto é construir um sistema de folha de pagamento. O sistema consiste do
 gerenciamento de pagamentos dos empregados de uma empresa. Além disso, o sistema deve
